@@ -8,6 +8,7 @@
     factory(jQuery);
   }
 }(function(\$) {
+  "use strict";
 
   ${0:// body...}
 

@@ -2,6 +2,7 @@
   <content><![CDATA[require([
   "jquery"
 ], function(\$) {
+  "use strict";
 
   ${0:// body...}
 

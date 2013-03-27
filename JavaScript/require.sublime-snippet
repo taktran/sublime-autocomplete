@@ -2,7 +2,10 @@
   <content><![CDATA[require([
   ${1:module}
 ], function(${2:parameter}) {
+  "use strict";
+
   ${0:// body...}
+
 });]]></content>
   <tabTrigger>req</tabTrigger>
   <scope>source.js</scope>
