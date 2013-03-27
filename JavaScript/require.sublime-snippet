@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[require([
+  ${1:module}
+], function(${2:parameter}) {
+  ${0:// body...}
+});]]></content>
+  <tabTrigger>req</tabTrigger>
+  <scope>source.js</scope>
+  <description>RequireJS</description>
+</snippet>
