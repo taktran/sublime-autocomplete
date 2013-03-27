@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[require([
+  "jquery"
+], function(\$) {
+
+  ${0:// body...}
+
+});]]></content>
+  <tabTrigger>req</tabTrigger>
+  <scope>source.js</scope>
+  <description>RequireJS for jQuery</description>
+</snippet>
