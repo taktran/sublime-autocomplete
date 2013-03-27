@@ -7,4 +7,3 @@ tmp/*.zip
 vendor/bundle
 capybara-*.html
 log/*
-*.sublime*
