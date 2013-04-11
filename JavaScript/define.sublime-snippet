@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[define(function() {
+  "use strict";
+
+  ${0:// body...}
+
+});]]></content>
+  <tabTrigger>def</tabTrigger>
+  <scope>source.js</scope>
+  <description>define function (RequireJS)</description>
+</snippet>

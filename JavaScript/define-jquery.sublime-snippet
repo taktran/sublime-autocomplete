@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[define([
+  "jquery"
+], function(\$) {
+  "use strict";
+
+  ${0:// body...}
+
+});]]></content>
+  <tabTrigger>def</tabTrigger>
+  <scope>source.js</scope>
+  <description>define fundtion with jQuery (RequireJS)</description>
+</snippet>

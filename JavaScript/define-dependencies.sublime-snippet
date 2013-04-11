@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[define([
+  ${1:module}
+], function(${2:parameter}) {
+  "use strict";
+
+  ${0:// body...}
+
+});]]></content>
+  <tabTrigger>def</tabTrigger>
+  <scope>source.js</scope>
+  <description>define with dependencies (RequireJS)</description>
+</snippet>
