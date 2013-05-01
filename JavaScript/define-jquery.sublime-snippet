@@ -9,5 +9,5 @@
 });]]></content>
   <tabTrigger>def</tabTrigger>
   <scope>source.js</scope>
-  <description>define fundtion with jQuery (RequireJS)</description>
+  <description>define function with jQuery (RequireJS)</description>
 </snippet>
