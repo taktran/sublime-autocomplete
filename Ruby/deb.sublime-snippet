@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[require "debugger"; debugger]]></content>
+    <content><![CDATA[require "debugger"; debugger; "end string"]]></content>
     <tabTrigger>deb</tabTrigger>
     <scope>source.ruby</scope>
     <description>require "debugger"; debugger; "end string";</description>
