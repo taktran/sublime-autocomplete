@@ -10,7 +10,7 @@
 
 	it("$3", function() {
 		$4
-	})
+	});
 });</string>
 	<key>name</key>
 	<string>describe with beforeEach</string>
@@ -18,7 +18,5 @@
 	<string>source.js.jasmine</string>
 	<key>tabTrigger</key>
 	<string>desb</string>
-	<key>uuid</key>
-	<string>04750DD6-B123-4121-8C14-361322874BDF</string>
 </dict>
 </plist>
