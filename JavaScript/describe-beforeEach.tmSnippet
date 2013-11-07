@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>describe("${1:description}", function() {
+	beforeEach(function() {
+		$2
+	});
+
+	it("$3", function() {
+		$4
+	})
+});</string>
+	<key>name</key>
+	<string>describe with beforeEach</string>
+	<key>scope</key>
+	<string>source.js.jasmine</string>
+	<key>tabTrigger</key>
+	<string>desb</string>
+	<key>uuid</key>
+	<string>04750DD6-B123-4121-8C14-361322874BDF</string>
+</dict>
+</plist>
