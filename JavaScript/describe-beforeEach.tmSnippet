@@ -15,7 +15,7 @@
 	<key>name</key>
 	<string>describe with beforeEach</string>
 	<key>scope</key>
-	<string>source.js.jasmine</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>desb</string>
 </dict>
